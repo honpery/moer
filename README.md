@@ -5,6 +5,26 @@
 
 ## 动物
 
+||||||
+|:------|:------|:-------|:--------|:--------|
+|<img src="./images/1_1_1.png" width="100" />|<img src="./images/1_2_1.png" width="100" />|<img src="./images/1_3_1.png" width="100" />|<img src="./images/1_4_1.png" width="100" />|<img src="./images/1_5_1.png" width="100" />|
+|<img src="./images/1_6_1.png" width="100" />|<img src="./images/1_7_1.png" width="100" />|<img src="./images/1_8_1.png" width="100" />|<img src="./images/1_9_1.png" width="100" />|<img src="./images/1_10_1.png" width="100" />|
+|<img src="./images/1_11_1.png" width="100" />|<img src="./images/1_12_1.png" width="100" />|<img src="./images/1_13_1.png" width="100" />|<img src="./images/1_14_1.png" width="100" />|<img src="./images/1_15_1.png" width="100" />|
+|<img src="./images/1_16_1.png" width="100" />|<img src="./images/1_17_1.png" width="100" />|<img src="./images/1_18_1.png" width="100" />|<img src="./images/1_19_1.png" width="100" />|<img src="./images/1_20_1.png" width="100" />|
+|<img src="./images/1_21_1.png" width="100" />|<img src="./images/1_22_1.png" width="100" />|<img src="./images/1_23_1.png" width="100" />|<img src="./images/1_24_1.png" width="100" />|<img src="./images/1_25_1.png" width="100" />|
+|<img src="./images/1_26_1.png" width="100" />|<img src="./images/1_27_1.png" width="100" />|<img src="./images/1_28_1.png" width="100" />|<img src="./images/1_29_1.png" width="100" />|<img src="./images/1_30_1.png" width="100" />|
+|<img src="./images/1_31_1.png" width="100" />|<img src="./images/1_32_1.png" width="100" />|<img src="./images/1_33_1.png" width="100" />|<img src="./images/1_34_1.png" width="100" />|<img src="./images/1_35_1.png" width="100" />|
+|<img src="./images/1_36_1.png" width="100" />|<img src="./images/1_37_1.png" width="100" />|<img src="./images/1_38_1.png" width="100" />|<img src="./images/1_39_1.png" width="100" />|<img src="./images/1_40_1.png" width="100" />|
+|<img src="./images/1_41_1.png" width="100" />|<img src="./images/1_42_1.png" width="100" />|<img src="./images/1_43_1.png" width="100" />|<img src="./images/1_44_1.png" width="100" />|<img src="./images/1_45_1.png" width="100" />|
+|<img src="./images/1_46_1.png" width="100" />|<img src="./images/1_47_1.png" width="100" />|<img src="./images/1_48_1.png" width="100" />|<img src="./images/1_49_1.png" width="100" />|<img src="./images/1_50_1.png" width="100" />|
+|<img src="./images/1_51_1.png" width="100" />|<img src="./images/1_52_1.png" width="100" />|<img src="./images/1_53_1.png" width="100" />|<img src="./images/1_54_1.png" width="100" />|<img src="./images/1_55_1.png" width="100" />|
+|<img src="./images/1_56_1.png" width="100" />|<img src="./images/1_57_1.png" width="100" />|<img src="./images/1_58_1.png" width="100" />|<img src="./images/1_59_1.png" width="100" />|<img src="./images/1_60_1.png" width="100" />|
+|<img src="./images/1_61_1.png" width="100" />|<img src="./images/1_62_1.png" width="100" />|<img src="./images/1_63_1.png" width="100" />|<img src="./images/1_64_1.png" width="100" />|<img src="./images/1_65_1.png" width="100" />|
+|<img src="./images/1_66_1.png" width="100" />|<img src="./images/1_67_1.png" width="100" />|<img src="./images/1_68_1.png" width="100" />|<img src="./images/1_69_1.png" width="100" />|<img src="./images/1_70_1.png" width="100" />|
+|<img src="./images/1_71_1.png" width="100" />|<img src="./images/1_72_1.png" width="100" />|<img src="./images/1_73_1.png" width="100" />|<img src="./images/1_74_1.png" width="100" />|<img src="./images/1_75_1.png" width="100" />|
+|<img src="./images/1_76_1.png" width="100" />|<img src="./images/1_77_1.png" width="100" />|<img src="./images/1_78_1.png" width="100" />|<img src="./images/1_79_1.png" width="100" />|<img src="./images/1_80_1.png" width="100" />|
+
+
 | 图谱位置 | 名称 | 缩略图 | 获取方式 | 出现地点 | 出现时间 | 描述
 |:------|:------|:-------|:--------|:--------|:--------|:--------|
 | 1 | 母鸡幼崽 | <img src="./images/1_1_1.png" width="100" />  | 牧场商店 | | | 小母鸡头小脚短，身体比较圆，走路时分叉的哦！ |
