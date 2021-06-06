@@ -25,7 +25,7 @@
 |<img src="./images/1_76_1.png" width="100" />|<img src="./images/1_77_1.png" width="100" />|<img src="./images/1_78_1.png" width="100" />|<img src="./images/1_79_1.png" width="100" />|<img src="./images/1_80_1.png" width="100" />|
 
 
-| 图谱位置 | 名称 | 缩略图 | 获取方式 | 出现地点 | 出现时间 | 描述
+| 图谱位置 | 名称 | 缩略图 | 获取途径 | 出现地点 | 出现时间 | 描述
 |:------|:------|:-------|:--------|:--------|:--------|:--------|
 | 1 | 母鸡幼崽 | <img src="./images/1_1_1.png" width="100" />  | 牧场商店 | | | 小母鸡头小脚短，身体比较圆，走路时分叉的哦！ |
 | 5 | 母鸡成年 | <img src="./images/1_5_1.png" width="100" />  | 家园饲养 | | | 母鸡母鸡咯咯哒，鸡肉鸡肉都好吃~ |
@@ -73,12 +73,76 @@
 
 ## 植物
 
-| 名称 | 缩略图 | 获取方式 | 描述
-|:------|:-------|:--------|:--------|
+
+||||||
+|:------|:------|:-------|:--------|:--------|
+|<img src="./images/2_1_1.png" width="100" />|<img src="./images/2_2_1.png" width="100" />|<img src="./images/2_3_1.png" width="100" />|<img src="./images/2_4_1.png" width="100" />|<img src="./images/2_5_1.png" width="100" />|
+|<img src="./images/2_6_1.png" width="100" />|<img src="./images/2_7_1.png" width="100" />|<img src="./images/2_8_1.png" width="100" />|<img src="./images/2_9_1.png" width="100" />|<img src="./images/2_10_1.png" width="100" />|
+|<img src="./images/2_11_1.png" width="100" />|<img src="./images/2_12_1.png" width="100" />|<img src="./images/2_13_1.png" width="100" />|<img src="./images/2_14_1.png" width="100" />|<img src="./images/2_15_1.png" width="100" />|
+|<img src="./images/2_16_1.png" width="100" />|<img src="./images/2_17_1.png" width="100" />|<img src="./images/2_18_1.png" width="100" />|<img src="./images/2_19_1.png" width="100" />|<img src="./images/2_20_1.png" width="100" />|
+|<img src="./images/2_21_1.png" width="100" />|<img src="./images/2_22_1.png" width="100" />|<img src="./images/2_23_1.png" width="100" />|<img src="./images/2_24_1.png" width="100" />|<img src="./images/2_25_1.png" width="100" />|
+|<img src="./images/2_26_1.png" width="100" />|<img src="./images/2_27_1.png" width="100" />|<img src="./images/2_28_1.png" width="100" />|<img src="./images/2_29_1.png" width="100" />|<img src="./images/2_30_1.png" width="100" />|
+|<img src="./images/2_31_1.png" width="100" />|<img src="./images/2_32_1.png" width="100" />|<img src="./images/2_33_1.png" width="100" />|<img src="./images/2_34_1.png" width="100" />|<img src="./images/2_35_1.png" width="100" />|
+|<img src="./images/2_36_1.png" width="100" />|<img src="./images/2_37_1.png" width="100" />|<img src="./images/2_38_1.png" width="100" />|<img src="./images/2_39_1.png" width="100" />|<img src="./images/2_40_1.png" width="100" />|
+|<img src="./images/2_41_1.png" width="100" />|<img src="./images/2_42_1.png" width="100" />|<img src="./images/2_43_1.png" width="100" />|<img src="./images/2_44_1.png" width="100" />|<img src="./images/2_45_1.png" width="100" />|
+|<img src="./images/2_46_1.png" width="100" />|<img src="./images/2_47_1.png" width="100" />|<img src="./images/2_48_1.png" width="100" />|<img src="./images/2_49_1.png" width="100" />|<img src="./images/2_50_1.png" width="100" />|
+
+| 图谱位置 | 名称 | 缩略图 | 获取途径 | 成长时间 | 描述
+|:------|:------|:-------|:--------|:--------|:--------|
+| 1 | 胡萝卜 | <img src="./images/2_1_1.png" width="100" />  |  | |  |
+| 2 | 茄子 | <img src="./images/2_2_1.png" width="100" />  |  | |  |
+| 3 | 南瓜 | <img src="./images/2_3_1.png" width="100" />  |  | |  |
+| 4 | 苹果 | <img src="./images/2_4_1.png" width="100" />  |  | |  |
+| 5 | 草莓 | <img src="./images/2_5_1.png" width="100" />  |  | |  |
+| 6 | 香蕉 | <img src="./images/2_6_1.png" width="100" />  |  | |  |
+| 7 | 牵牛花 | <img src="./images/2_7_1.png" width="100" />  |  | |  |
+| 8 | 小麦 | <img src="./images/2_8_1.png" width="100" />  |  | |  |
+| 9 |  | <img src="./images/2_9_1.png" width="100" />  |  | |  |
+| 10 | 西瓜 | <img src="./images/2_10_1.png" width="100" />  |  | |  |
+| 11 | 水蜜桃 | <img src="./images/2_11_1.png" width="100" />  |  | |  |
+| 12 | 毛毛花 | <img src="./images/2_12_1.png" width="100" />  |  | |  |
+| 13 | 白菜 | <img src="./images/2_13_1.png" width="100" />  |  | |  |
+| 14 |  | <img src="./images/2_14_1.png" width="100" />  |  | |  |
+| 15 | 奇异果 | <img src="./images/2_15_1.png" width="100" />  |  | |  |
+| 16 |  | <img src="./images/2_16_1.png" width="100" />  |  | |  |
+| 17 |  | <img src="./images/2_17_1.png" width="100" />  |  | |  |
+| 18 |  | <img src="./images/2_18_1.png" width="100" />  |  | |  |
+| 19 | 葡萄 | <img src="./images/2_19_1.png" width="100" />  |  | |  |
+| 20 |  | <img src="./images/2_20_1.png" width="100" />  |  | |  |
+| 21 |  | <img src="./images/2_21_1.png" width="100" />  |  | |  |
+| 22 | 向日葵 | <img src="./images/2_22_1.png" width="100" />  |  | |  |
+| 23 |  | <img src="./images/2_23_1.png" width="100" />  |  | |  |
+| 24 | 玉米 | <img src="./images/2_24_1.png" width="100" />  |  | |  |
+| 25 |  | <img src="./images/2_25_1.png" width="100" />  |  | |  |
+| 26 |  | <img src="./images/2_26_1.png" width="100" />  |  | |  |
+| 27 |  | <img src="./images/2_27_1.png" width="100" />  |  | |  |
+| 28 | 七色花 | <img src="./images/2_28_1.png" width="100" />  |  | |  |
+| 29 | 怪怪糖果 | <img src="./images/2_29_1.png" width="100" />  |  | |  |
+| 30 |  | <img src="./images/2_30_1.png" width="100" />  |  | |  |
+| 31 | 牵牛花 | <img src="./images/2_31_1.png" width="100" />  |  | |  |
+| 32 |  | <img src="./images/2_32_1.png" width="100" />  |  | |  |
+| 33 |  | <img src="./images/2_33_1.png" width="100" />  |  | |  |
+| 34 |  | <img src="./images/2_34_1.png" width="100" />  |  | |  |
+| 35 |  | <img src="./images/2_35_1.png" width="100" />  |  | |  |
+| 36 |  | <img src="./images/2_36_1.png" width="100" />  |  | |  |
+| 37 |  | <img src="./images/2_37_1.png" width="100" />  |  | |  |
+| 38 |  | <img src="./images/2_38_1.png" width="100" />  |  | |  |
+| 39 |  | <img src="./images/2_39_1.png" width="100" />  |  | |  |
+| 40 |  | <img src="./images/2_40_1.png" width="100" />  |  | |  |
+| 41 | 薰衣草 | <img src="./images/2_41_1.png" width="100" />  |  | |  |
+| 42 | 郁金香 | <img src="./images/2_42_1.png" width="100" />  |  | |  |
+| 43 |  | <img src="./images/2_43_1.png" width="100" />  |  | |  |
+| 44 |  | <img src="./images/2_44_1.png" width="100" />  |  | |  |
+| 45 | 音符re | <img src="./images/2_45_1.png" width="100" />  |  | |  |
+| 46 | 音符mi | <img src="./images/2_46_1.png" width="100" />  |  | |  |
+| 47 | 音符fa | <img src="./images/2_47_1.png" width="100" />  |  | |  |
+| 48 |  | <img src="./images/2_48_1.png" width="100" />  |  | |  |
+| 49 |  | <img src="./images/2_49_1.png" width="100" />  |  | |  |
+| 50 |  | <img src="./images/2_50_1.png" width="100" />  |  | |  |
 
 ## 菜谱
 
-| 名称 | 缩略图 | 获取方式 | 描述 
+| 名称 | 缩略图 | 获取途径 | 描述 
 |:------|:-------|:--------|:--------|
 
 
